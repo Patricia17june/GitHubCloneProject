@@ -1,0 +1,2 @@
+This is a new feature
+Im trying to solve cnflicts between the two files which arise when merging
